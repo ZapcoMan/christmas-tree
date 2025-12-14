@@ -43,11 +43,11 @@ const CONFIG = {
   },
   counts: {
     foliage: 15000,
-    ornaments: 300,   // 拍立得照片数量
-    elements: 200,    // 圣诞元素数量
-    lights: 400       // 彩灯数量
+    ornaments: 150,   // 拍立得照片数量
+    elements: 100,    // 圣诞元素数量
+    lights: 200       // 彩灯数量
   },
-  tree: { height: 22, radius: 9 }, // 树体尺寸
+  tree: { height: 30, radius: 9 }, // 树体尺寸
   photos: {
     // top 属性不再需要，因为已经移入 body
     body: bodyPhotoPaths
